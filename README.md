@@ -42,7 +42,7 @@ Dando continuidade, com o `StandardScaler()` os dados foram normalizados.
 
 #### Aplicação do K-means
 
-Foram escolhidos 3 clusters para a realização da classificação e o K-means foi aplicado.
+Foi definido K = 3, ou seja, a análise buscou agrupar os clientes em três clusters com base nas características selecionadas
 
 #### Interpretação dos Clusters
 
