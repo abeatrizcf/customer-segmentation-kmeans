@@ -1,4 +1,4 @@
-# Documentação referente a uma análise complementar dos clientes com Machine Learning
+# Documentação referente a uma análise dos clientes do banco dvdrental utilizando clusterização e K-means
 
 ## Descrição do documento:
 
